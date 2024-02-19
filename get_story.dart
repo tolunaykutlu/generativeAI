@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 
 getStory(String requestText) async {
   // API anahtarınızı girin
-  const apiKey = 'AIzaSyD5inZcuOToajZvkYLAjv1nuQWS_v_ec1c';
+  const apiKey = 'apikeyy';
 
   // İstek oluşturma
   final request =
